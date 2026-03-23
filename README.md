@@ -63,3 +63,6 @@ rohan-portfolio/
 - Google Fonts: Syne (headings) + Mulish (body)
 - No frameworks, no build tools, no dependencies
 - Works offline (photo is embedded as base64)
+=======
+# portfolio
+>>>>>>> 22f45d2fb70a453b5385736b79612502f7190b5e
