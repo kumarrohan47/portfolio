@@ -28,12 +28,6 @@ rohan-portfolio/
 
 ## How to Use
 
-1. **Open locally** — just double-click `index.html` in your file manager. Done.
-2. **Deploy free** — drag the entire folder to [Netlify Drop](https://app.netlify.com/drop) and get a live URL in 30 seconds.
-3. **GitHub Pages** — push to a repo named `yourusername.github.io` and it goes live automatically.
-
----
-
 ## Customise
 
 | What                  | Where in index.html                       |
